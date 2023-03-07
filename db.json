@@ -17,18 +17,50 @@
       ]
     },
     {
-      "id": 2,
+      "id":2 ,
+      "name": "Motivational Videos",
+      "cards": [
+        {
+          "id": 1,
+          "name": "Funny Cat Video",
+          "link": "https://www.youtube.com/embed/FtSd844cI7U"
+        },
+        {
+          "id": 2,
+          "name": "Movie Trailer",
+          "link": "https://www.youtube.com/embed/2LqzF5WauAw"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Bodybuilding Videos",
+      "cards": [
+        {
+          "id": 1,
+          "name": "Funny Cat Video",
+          "link": "https://www.youtube.com/embed/FtSd844cI7U"
+        },
+        {
+          "id": 2,
+          "name": "Movie Trailer",
+          "link": "https://www.youtube.com/embed/2LqzF5WauAw"
+        }
+      ]
+    },
+    {
+      "id": 4,
       "name": "Educational Videos",
       "cards": [
         {
-          "id": 3,
-          "name": "TED Talk: The Power of Vulnerability",
-          "link": "https://www.youtube.com/embed/iCvmsMzlF7o"
+          "id": 1,
+          "name": "Funny Cat Video",
+          "link": "https://www.youtube.com/embed/FtSd844cI7U"
         },
         {
-          "id": 4,
-          "name": "Science Documentary",
-          "link": "https://www.youtube.com/embed/W_rvE8FLlIQ"
+          "id": 2,
+          "name": "Movie Trailer",
+          "link": "https://www.youtube.com/embed/2LqzF5WauAw"
         }
       ]
     }
