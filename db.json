@@ -1,38 +1,56 @@
 {
-    "buckets": [
-      {
-        "id": 1,
-        "name": "Entertainment Videos",
-        "cards": [
-          {
-            "id": 1,
-            "name": "Funny Cat Videos",
-            "link": "https://www.youtube.com/watch?v=5dsGWM5XGdg"
-          },
-          {
-            "id": 2,
-            "name": "Movie Trailers",
-            "link": "https://www.youtube.com/watch?v=2AUmvWm5ZDQ"
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "name": "Educational Videos",
-        "cards": [
-          {
-            "id": 3,
-            "name": "Introduction to React",
-            "link": "https://www.youtube.com/watch?v=Ke90Tje7VS0"
-          },
-          {
-            "id": 4,
-            "name": "How to Code a Website",
-            "link": "https://www.youtube.com/watch?v=qlA7dputiNc"
-          }
-        ]
-      }
-    ],
-    "history": []
-  }
-  
+  "buckets": [
+    {
+      "id": 1,
+      "name": "Entertainment Videos",
+      "cards": [
+        {
+          "id": 1,
+          "name": "Funny Cat Video",
+          "link": "https://www.youtube.com/embed/FtSd844cI7U"
+        },
+        {
+          "id": 2,
+          "name": "Movie Trailer",
+          "link": "https://www.youtube.com/embed/2LqzF5WauAw"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Educational Videos",
+      "cards": [
+        {
+          "id": 3,
+          "name": "TED Talk: The Power of Vulnerability",
+          "link": "https://www.youtube.com/embed/iCvmsMzlF7o"
+        },
+        {
+          "id": 4,
+          "name": "Science Documentary",
+          "link": "https://www.youtube.com/embed/W_rvE8FLlIQ"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": 1,
+      "name": "Funny Cat Video",
+      "link": "https://www.youtube.com/embed/FtSd844cI7U",
+      "playedAt": "2023-03-07T10:30:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Movie Trailer",
+      "link": "https://www.youtube.com/embed/2LqzF5WauAw",
+      "playedAt": "2023-03-07T11:00:00Z"
+    },
+    {
+      "id": 3,
+      "name": "TED Talk: The Power of Vulnerability",
+      "link": "https://www.youtube.com/embed/iCvmsMzlF7o",
+      "playedAt": "2023-03-07T12:00:00Z"
+    }
+  ]
+}
