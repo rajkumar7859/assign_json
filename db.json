@@ -22,12 +22,12 @@
       "cards": [
         {
           "id": 1,
-          "name": "Funny Cat Video",
+          "name": "Motivational Video",
           "link": "https://www.youtube.com/embed/FtSd844cI7U"
         },
         {
           "id": 2,
-          "name": "Movie Trailer",
+          "name": "Motivational Trailer",
           "link": "https://www.youtube.com/embed/2LqzF5WauAw"
         }
       ]
@@ -38,12 +38,12 @@
       "cards": [
         {
           "id": 1,
-          "name": "Funny Cat Video",
+          "name": "Bodybuilding Video",
           "link": "https://www.youtube.com/embed/FtSd844cI7U"
         },
         {
           "id": 2,
-          "name": "Movie Trailer",
+          "name": "Bodybuilding Trailer",
           "link": "https://www.youtube.com/embed/2LqzF5WauAw"
         }
       ]
@@ -54,12 +54,12 @@
       "cards": [
         {
           "id": 1,
-          "name": "Funny Cat Video",
+          "name": "Educational Video",
           "link": "https://www.youtube.com/embed/FtSd844cI7U"
         },
         {
           "id": 2,
-          "name": "Movie Trailer",
+          "name": "Educational Trailer",
           "link": "https://www.youtube.com/embed/2LqzF5WauAw"
         }
       ]
