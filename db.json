@@ -7,12 +7,14 @@
         {
           "id": 1,
           "name": "Funny Cat Video",
-          "link": "https://www.youtube.com/embed/FtSd844cI7U"
+          "link": "https://www.youtube.com/embed/FtSd844cI7U",
+          "bucketId": 1
         },
         {
           "id": 2,
           "name": "Movie Trailer",
-          "link": "https://www.youtube.com/embed/2LqzF5WauAw"
+          "link": "https://www.youtube.com/embed/2LqzF5WauAw",
+          "bucketId": 1
         }
       ]
     },
@@ -23,12 +25,14 @@
         {
           "id": 1,
           "name": "Motivational Video",
-          "link": "https://www.youtube.com/embed/FtSd844cI7U"
+          "link": "https://www.youtube.com/embed/FtSd844cI7U",
+          "bucketId": 2
         },
         {
           "id": 2,
           "name": "Motivational Trailer",
-          "link": "https://www.youtube.com/embed/2LqzF5WauAw"
+          "link": "https://www.youtube.com/embed/2LqzF5WauAw",
+          "bucketId": 2
         }
       ]
     },
@@ -39,12 +43,14 @@
         {
           "id": 1,
           "name": "Bodybuilding Video",
-          "link": "https://www.youtube.com/embed/FtSd844cI7U"
+          "link": "https://www.youtube.com/embed/FtSd844cI7U",
+          "bucketId": 3
         },
         {
           "id": 2,
           "name": "Bodybuilding Trailer",
-          "link": "https://www.youtube.com/embed/2LqzF5WauAw"
+          "link": "https://www.youtube.com/embed/2LqzF5WauAw",
+          "bucketId": 3
         }
       ]
     },
@@ -55,12 +61,14 @@
         {
           "id": 1,
           "name": "Educational Video",
-          "link": "https://www.youtube.com/embed/FtSd844cI7U"
+          "link": "https://www.youtube.com/embed/FtSd844cI7U",
+          "bucketId": 4
         },
         {
           "id": 2,
           "name": "Educational Trailer",
-          "link": "https://www.youtube.com/embed/2LqzF5WauAw"
+          "link": "https://www.youtube.com/embed/2LqzF5WauAw",
+          "bucketId": 4
         }
       ]
     }
